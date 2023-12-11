@@ -16,3 +16,4 @@ same as GitPullAll - but first gives you the option to exclude any nodes/folders
 GitPullNormalized -
 this allows you see all your folders (comfyui nodes), does a wildcard search to make the nodes easy to read, and then let's you decide which ones you want to update.  I'd also recommend this one strongly.  Be aware this doesn't take multi input for now.... as it's intended for one by one updates.  I have it asking you a series of questions to confirm you want to update the right folder/node... but after you type a number in to find the right node, you can just hit `ENTER` a few times to accept the defaults confirming execution; and it'll update the node with a `git pull`.
 
+Note : you can also just open them in the `RAW` and copy the script into your own txt file, then rename the folder path (if you don't like randomly downloading files off random github repos).
