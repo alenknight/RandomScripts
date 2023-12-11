@@ -1,5 +1,6 @@
 A series of scripts to help manage folders in directories.  these are primarily made for comyui - but they can pretty easily be readjusted for any windows folder directory.
-these are in powershell for now.
+these are in powershell for now.  
+Yes, you can do this in Manager w/ update nodes... but we all know that doesn't always work, and it's usually best to get in there and manually run a git pull.  especially if you got nodes that aren't in the Manager Repo.
 
 USAGE
 put any of these into directory (custom nodes) folder
